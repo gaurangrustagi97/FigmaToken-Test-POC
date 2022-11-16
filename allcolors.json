@@ -1,0 +1,1112 @@
+{
+  "Colors": {
+    "Global": {
+      "B&W": {
+        "color-GL-black": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "color-GL-white": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "Neutral": {
+        "color-GL-neutral-5": {
+          "value": "#f2f2f2",
+          "type": "color"
+        },
+        "color-GL-neutral-10": {
+          "value": "#e5e5e5",
+          "type": "color"
+        },
+        "color-GL-neutral-20": {
+          "value": "#cccccc",
+          "type": "color"
+        },
+        "color-GL-neutral-30": {
+          "value": "#b2b2b2",
+          "type": "color"
+        },
+        "color-GL-neutral-40": {
+          "value": "#999999",
+          "type": "color"
+        },
+        "color-GL-neutral-50": {
+          "value": "#808080",
+          "type": "color"
+        },
+        "color-GL-neutral-60": {
+          "value": "#666666",
+          "type": "color"
+        },
+        "color-GL-neutral-70": {
+          "value": "#4c4c4c",
+          "type": "color"
+        },
+        "color-GL-neutral-80": {
+          "value": "#333333",
+          "type": "color"
+        },
+        "color-GL-neutral-90": {
+          "value": "#191919",
+          "type": "color"
+        }
+      },
+      "Functional": {
+        "color-GL-info": {
+          "value": "#11bde3",
+          "type": "color"
+        },
+        "color-GL-success": {
+          "value": "#11e326",
+          "type": "color"
+        },
+        "color-GL-error": {
+          "value": "#e31125",
+          "type": "color"
+        }
+      }
+    },
+    "Funlab": {
+      "Primary": {
+        "color-FL-yellow": {
+          "value": "#fcfd00",
+          "type": "color"
+        },
+        "color-FL-green": {
+          "value": "#c0fe4e",
+          "type": "color"
+        },
+        "color-FL-pink": {
+          "value": "#ff54a3",
+          "type": "color"
+        }
+      },
+      "Palette": {
+        "Yellow": {
+          "color-FL-yellow-5": {
+            "value": "#fffff2",
+            "type": "color"
+          },
+          "color-FL-yellow-10": {
+            "value": "#ffffe5",
+            "type": "color"
+          },
+          "color-FL-yellow-20": {
+            "value": "#feffcc",
+            "type": "color"
+          },
+          "color-FL-yellow-30": {
+            "value": "#fefeb2",
+            "type": "color"
+          },
+          "color-FL-yellow-40": {
+            "value": "#fefe99",
+            "type": "color"
+          },
+          "color-FL-yellow-50": {
+            "value": "#fefe80",
+            "type": "color"
+          },
+          "color-FL-yellow-60": {
+            "value": "#fdfe66",
+            "type": "color"
+          },
+          "color-FL-yellow-70": {
+            "value": "#fdfe4c",
+            "type": "color"
+          },
+          "color-FL-yellow-80": {
+            "value": "#fdfd33",
+            "type": "color"
+          },
+          "color-FL-yellow-90": {
+            "value": "#fcfd19",
+            "type": "color"
+          }
+        },
+        "Pink": {
+          "color-fl-pink-5": {
+            "value": "#fff6fa",
+            "type": "color"
+          },
+          "color-FL-pink-10": {
+            "value": "#ffeef6",
+            "type": "color"
+          },
+          "color-FL-pink-20": {
+            "value": "#ffdded",
+            "type": "color"
+          },
+          "color-FL-pink-30": {
+            "value": "#ffcce3",
+            "type": "color"
+          },
+          "color-FL-pink-40": {
+            "value": "#ffbbda",
+            "type": "color"
+          },
+          "color-FL-pink-50": {
+            "value": "#ffa9d1",
+            "type": "color"
+          },
+          "color-FL-pink-60": {
+            "value": "#ff98c8",
+            "type": "color"
+          },
+          "color-FL-pink-70": {
+            "value": "#ff87bf",
+            "type": "color"
+          },
+          "color-FL-pink-80": {
+            "value": "#ff76b5",
+            "type": "color"
+          },
+          "color-FL-pink-90": {
+            "value": "#ff65ac",
+            "type": "color"
+          }
+        },
+        "Green": {
+          "color-FL-green-5": {
+            "value": "#fcfff6",
+            "type": "color"
+          },
+          "color-FL-green-10": {
+            "value": "#f9ffed",
+            "type": "color"
+          },
+          "color-FL-green-20": {
+            "value": "#f2ffdc",
+            "type": "color"
+          },
+          "color-FL-green-30": {
+            "value": "#ecffca",
+            "type": "color"
+          },
+          "color-FL-green-40": {
+            "value": "#e6ffb8",
+            "type": "color"
+          },
+          "color-FL-green-50": {
+            "value": "#e0ffa6",
+            "type": "color"
+          },
+          "color-FL-green-60": {
+            "value": "#d9fe95",
+            "type": "color"
+          },
+          "color-FL-green-70": {
+            "value": "#d3fe83",
+            "type": "color"
+          },
+          "color-FL-green-80": {
+            "value": "#cdfe71",
+            "type": "color"
+          },
+          "color-FL-green-90": {
+            "value": "#c6fe60",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "Holey Moley": {
+      "Primary": {
+        "color-HM-navy": {
+          "value": "#222b5c",
+          "type": "color"
+        },
+        "color-HM-teal": {
+          "value": "#28acaf",
+          "type": "color"
+        },
+        "color-HM-orange": {
+          "value": "#f15a34",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "color-HM-yellow": {
+          "value": "#ffc20e",
+          "type": "color"
+        }
+      },
+      "Palette": {
+        "Navy": {
+          "color-HM-navy-5": {
+            "value": "#f4f4f7",
+            "type": "color"
+          },
+          "color-HM-navy-10": {
+            "value": "#e9eaef",
+            "type": "color"
+          },
+          "color-HM-navy-20": {
+            "value": "#d3d5de",
+            "type": "color"
+          },
+          "color-HM-navy-30": {
+            "value": "#bdbfce",
+            "type": "color"
+          },
+          "color-HM-navy-40": {
+            "value": "#a7aabe",
+            "type": "color"
+          },
+          "color-HM-navy-50": {
+            "value": "#9095ad",
+            "type": "color"
+          },
+          "color-HM-navy-60": {
+            "value": "#7a809d",
+            "type": "color"
+          },
+          "color-HM-navy-70": {
+            "value": "#646b8d",
+            "type": "color"
+          },
+          "color-HM-navy-80": {
+            "value": "#4e557d",
+            "type": "color"
+          },
+          "color-HM-navy-90": {
+            "value": "#38406c",
+            "type": "color"
+          }
+        },
+        "Teal": {
+          "color-HM-teal-5": {
+            "value": "#f4fbfb",
+            "type": "color"
+          },
+          "color-HM-teal-10": {
+            "value": "#e9f7f7",
+            "type": "color"
+          },
+          "color-HM-teal-20": {
+            "value": "#d4eeef",
+            "type": "color"
+          },
+          "color-HM-teal-30": {
+            "value": "#bee6e7",
+            "type": "color"
+          },
+          "color-HM-teal-40": {
+            "value": "#a9dedf",
+            "type": "color"
+          },
+          "color-HM-teal-50": {
+            "value": "#93d6d7",
+            "type": "color"
+          },
+          "color-HM-teal-60": {
+            "value": "#7ecdcf",
+            "type": "color"
+          },
+          "color-HM-teal-70": {
+            "value": "#68c5c7",
+            "type": "color"
+          },
+          "color-HM-teal-80": {
+            "value": "#53bdbf",
+            "type": "color"
+          },
+          "color-HM-teal-90": {
+            "value": "#3eb4b7",
+            "type": "color"
+          }
+        },
+        "Orange": {
+          "color-HM-orange-5": {
+            "value": "#fef7f5",
+            "type": "color"
+          },
+          "color-HM-orange-10": {
+            "value": "#feefeb",
+            "type": "color"
+          },
+          "color-HM-orange-20": {
+            "value": "#fcded6",
+            "type": "color"
+          },
+          "color-HM-orange-30": {
+            "value": "#fbcdc2",
+            "type": "color"
+          },
+          "color-HM-orange-40": {
+            "value": "#f9bdae",
+            "type": "color"
+          },
+          "color-HM-orange-50": {
+            "value": "#f8ac99",
+            "type": "color"
+          },
+          "color-HM-orange-60": {
+            "value": "#f79c85",
+            "type": "color"
+          },
+          "color-HM-orange-70": {
+            "value": "#f58b71",
+            "type": "color"
+          },
+          "color-HM-orange-80": {
+            "value": "#f47b5d",
+            "type": "color"
+          },
+          "color-HM-orange-90": {
+            "value": "#f26a48",
+            "type": "color"
+          }
+        },
+        "Yellow": {
+          "color-HM-yellow-5": {
+            "value": "#fffcf3",
+            "type": "color"
+          },
+          "color-HM-yellow-10": {
+            "value": "#fff9e7",
+            "type": "color"
+          },
+          "color-HM-yellow-20": {
+            "value": "#fff3cf",
+            "type": "color"
+          },
+          "color-HM-yellow-30": {
+            "value": "#ffedb7",
+            "type": "color"
+          },
+          "color-HM-yellow-40": {
+            "value": "#ffe79f",
+            "type": "color"
+          },
+          "color-HM-yellow-50": {
+            "value": "#ffe086",
+            "type": "color"
+          },
+          "color-HM-yellow-60": {
+            "value": "#ffda6e",
+            "type": "color"
+          },
+          "color-HM-yellow-70": {
+            "value": "#ffd557",
+            "type": "color"
+          },
+          "color-HM-yellow-80": {
+            "value": "#ffce3e",
+            "type": "color"
+          },
+          "color-HM-blue-90": {
+            "value": "#ffc927",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "Hijinx Hotel": {
+      "Primary": {
+        "color-HH-bordeaux": {
+          "value": "#67002b",
+          "type": "color"
+        },
+        "color-HH-pink": {
+          "value": "#f68ab0",
+          "type": "color"
+        },
+        "color-HH-darkgreen": {
+          "value": "#004330",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "color-HH-coral": {
+          "value": "#eb6953",
+          "type": "color"
+        }
+      },
+      "Palette": {
+        "Bordeaux": {
+          "color-HH-bordeaux-90": {
+            "value": "#771a41",
+            "type": "color"
+          },
+          "color-HH-bordeaux-80": {
+            "value": "#853355",
+            "type": "color"
+          },
+          "color-HH-bordeaux-70": {
+            "value": "#954d6b",
+            "type": "color"
+          },
+          "color-HH-bordeaux-60": {
+            "value": "#a46680",
+            "type": "color"
+          },
+          "color-HH-bordeaux-50": {
+            "value": "#b27f94",
+            "type": "color"
+          },
+          "color-HH-bordeaux-40": {
+            "value": "#c299aa",
+            "type": "color"
+          },
+          "color-HH-bordeaux-30": {
+            "value": "#d2b3c0",
+            "type": "color"
+          },
+          "color-HH-bordeaux-20": {
+            "value": "#e1ccd5",
+            "type": "color"
+          },
+          "color-HH-bordeaux-10": {
+            "value": "#f0e6ea",
+            "type": "color"
+          },
+          "color-HH-bordeaux-5": {
+            "value": "#f7f2f4",
+            "type": "color"
+          }
+        },
+        "Pink": {
+          "color-HH-pink-90": {
+            "value": "#f796b8",
+            "type": "color"
+          },
+          "color-HH-pink-80": {
+            "value": "#f8a1c0",
+            "type": "color"
+          },
+          "color-HH-pink-70": {
+            "value": "#f9aec8",
+            "type": "color"
+          },
+          "color-HH-pink-60": {
+            "value": "#fab9d0",
+            "type": "color"
+          },
+          "color-HH-pink-50": {
+            "value": "#fac4d7",
+            "type": "color"
+          },
+          "color-HH-pink-40": {
+            "value": "#fbd0df",
+            "type": "color"
+          },
+          "color-HH-pink-30": {
+            "value": "#fddce8",
+            "type": "color"
+          },
+          "color-HH-pink-20": {
+            "value": "#fde8ef",
+            "type": "color"
+          },
+          "color-HH-pink-10": {
+            "value": "#fff4f8",
+            "type": "color"
+          },
+          "color-HH-pink-5": {
+            "value": "#fef9fb",
+            "type": "color"
+          }
+        },
+        "Green": {
+          "color-HH-green-90": {
+            "value": "#1a5645",
+            "type": "color"
+          },
+          "color-HH-green-80": {
+            "value": "#336959",
+            "type": "color"
+          },
+          "color-HH-green-70": {
+            "value": "#4d7c6f",
+            "type": "color"
+          },
+          "color-HH-green-60": {
+            "value": "#668e83",
+            "type": "color"
+          },
+          "color-HH-green-50": {
+            "value": "#7fa097",
+            "type": "color"
+          },
+          "color-HH-green-40": {
+            "value": "#99b4ac",
+            "type": "color"
+          },
+          "color-HH-green-30": {
+            "value": "#b3c7c1",
+            "type": "color"
+          },
+          "color-HH-green-20": {
+            "value": "#ccd9d6",
+            "type": "color"
+          },
+          "color-HH-green-10": {
+            "value": "#e6edeb",
+            "type": "color"
+          },
+          "color-HH-green-5": {
+            "value": "#f2f5f4",
+            "type": "color"
+          }
+        },
+        "Coral": {
+          "color-HH-coral-90": {
+            "value": "#ed7865",
+            "type": "color"
+          },
+          "color-HH-coral-80": {
+            "value": "#ef8775",
+            "type": "color"
+          },
+          "color-HH-coral-70": {
+            "value": "#f19687",
+            "type": "color"
+          },
+          "color-HH-coral-60": {
+            "value": "#f3a598",
+            "type": "color"
+          },
+          "color-HH-coral-50": {
+            "value": "#f4b3a8",
+            "type": "color"
+          },
+          "color-HH-coral-40": {
+            "value": "#f7c3ba",
+            "type": "color"
+          },
+          "color-HH-coral-30": {
+            "value": "#f9d2cc",
+            "type": "color"
+          },
+          "color-HH-coral-20": {
+            "value": "#fbe1dd",
+            "type": "color"
+          },
+          "color-HH-coral-10": {
+            "value": "#fdf0ee",
+            "type": "color"
+          },
+          "color-HH-coral-5": {
+            "value": "#fef7f6",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "Strike": {
+      "Primary": {
+        "color-ST-black": {
+          "value": "#222222",
+          "type": "color"
+        },
+        "color-ST-red": {
+          "value": "#e31125",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "color-ST-yellow": {
+          "value": "#ffc20e",
+          "type": "color"
+        }
+      },
+      "Palette": {
+        "Black": {
+          "color-ST-black-90": {
+            "value": "#393939",
+            "type": "color"
+          },
+          "color-ST-black-80": {
+            "value": "#4e4e4e",
+            "type": "color"
+          },
+          "color-ST-black-70": {
+            "value": "#656565",
+            "type": "color"
+          },
+          "color-ST-black-60": {
+            "value": "#7a7a7a",
+            "type": "color"
+          },
+          "color-ST-black-50": {
+            "value": "#909090",
+            "type": "color"
+          },
+          "color-ST-black-40": {
+            "value": "#a7a7a7",
+            "type": "color"
+          },
+          "color-ST-black-30": {
+            "value": "#bdbdbd",
+            "type": "color"
+          },
+          "color-ST-black-20": {
+            "value": "#d3d3d3",
+            "type": "color"
+          },
+          "color-ST-black-10": {
+            "value": "#e9e9e9",
+            "type": "color"
+          },
+          "color-ST-black-5": {
+            "value": "#f4f4f4",
+            "type": "color"
+          }
+        },
+        "Red": {
+          "color-ST-red-90": {
+            "value": "#e6293b",
+            "type": "color"
+          },
+          "color-ST-red-80": {
+            "value": "#e94151",
+            "type": "color"
+          },
+          "color-ST-red-70": {
+            "value": "#ec5967",
+            "type": "color"
+          },
+          "color-ST-red-60": {
+            "value": "#ee707c",
+            "type": "color"
+          },
+          "color-ST-red-50": {
+            "value": "#f08791",
+            "type": "color"
+          },
+          "color-ST-red-40": {
+            "value": "#f4a0a8",
+            "type": "color"
+          },
+          "color-ST-red-30": {
+            "value": "#f7b8be",
+            "type": "color"
+          },
+          "color-ST-red-20": {
+            "value": "#f9cfd3",
+            "type": "color"
+          },
+          "color-ST-red-10": {
+            "value": "#fde8ea",
+            "type": "color"
+          },
+          "color-ST-red-5": {
+            "value": "#fdf3f4",
+            "type": "color"
+          }
+        },
+        "Yellow": {
+          "color-ST-yellow-90": {
+            "value": "#ffc927",
+            "type": "color"
+          },
+          "color-ST-yellow-80": {
+            "value": "#ffce3e",
+            "type": "color"
+          },
+          "color-ST-yellow-70": {
+            "value": "#ffd557",
+            "type": "color"
+          },
+          "color-ST-yellow-60": {
+            "value": "#ffda6e",
+            "type": "color"
+          },
+          "color-ST-yellow-50": {
+            "value": "#ffe086",
+            "type": "color"
+          },
+          "color-ST-yellow-40": {
+            "value": "#ffe79f",
+            "type": "color"
+          },
+          "color-ST-yellow-30": {
+            "value": "#ffedb7",
+            "type": "color"
+          },
+          "color-ST-yellow-20": {
+            "value": "#fff3cf",
+            "type": "color"
+          },
+          "color-ST-yellow-10": {
+            "value": "#fff9e7",
+            "type": "color"
+          },
+          "color-ST-yellow-5": {
+            "value": "#fffcf3",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "B Lucky": {
+      "Primary": {
+        "color-BL-black": {
+          "value": "#222222",
+          "type": "color"
+        },
+        "color-BL-gold": {
+          "value": "#d5ac4c",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "color-BL-brown": {
+          "value": "#996f0c",
+          "type": "color"
+        }
+      },
+      "Palette": {
+        "Black": {
+          "color-BL-black-5": {
+            "value": "#f4f4f4",
+            "type": "color"
+          },
+          "color-BL-black-10": {
+            "value": "#e9e9e9",
+            "type": "color"
+          },
+          "color-BL-black-20": {
+            "value": "#d3d3d3",
+            "type": "color"
+          },
+          "color-BL-black-30": {
+            "value": "#bdbdbd",
+            "type": "color"
+          },
+          "color-BL-black-40": {
+            "value": "#a7a7a7",
+            "type": "color"
+          },
+          "color-BL-black-50": {
+            "value": "#909090",
+            "type": "color"
+          },
+          "color-BL-black-60": {
+            "value": "#7a7a7a",
+            "type": "color"
+          },
+          "color-BL-black-70": {
+            "value": "#656565",
+            "type": "color"
+          },
+          "color-BL-black-80": {
+            "value": "#4e4e4e",
+            "type": "color"
+          },
+          "color-BL-black-90": {
+            "value": "#393939",
+            "type": "color"
+          }
+        },
+        "Gold": {
+          "color-BL-gold-90": {
+            "value": "#dab55e",
+            "type": "color"
+          },
+          "color-BL-gold-80": {
+            "value": "#ddbd70",
+            "type": "color"
+          },
+          "color-BL-gold-70": {
+            "value": "#e2c582",
+            "type": "color"
+          },
+          "color-BL-gold-60": {
+            "value": "#e6cd94",
+            "type": "color"
+          },
+          "color-BL-gold-50": {
+            "value": "#e9d5a5",
+            "type": "color"
+          },
+          "color-BL-gold-40": {
+            "value": "#eedeb7",
+            "type": "color"
+          },
+          "color-BL-gold-30": {
+            "value": "#f3e7ca",
+            "type": "color"
+          },
+          "color-BL-gold-20": {
+            "value": "#f7eedb",
+            "type": "color"
+          },
+          "color-BL-gold-10": {
+            "value": "#fbf7ee",
+            "type": "color"
+          },
+          "color-BL-gold-5": {
+            "value": "#fdfbf6",
+            "type": "color"
+          }
+        },
+        "Brown": {
+          "color-BL-brown-5": {
+            "value": "#faf8f3",
+            "type": "color"
+          },
+          "color-BL-brown-10": {
+            "value": "#f5f1e7",
+            "type": "color"
+          },
+          "color-BL-brown-20": {
+            "value": "#ebe2ce",
+            "type": "color"
+          },
+          "color-BL-brown-30": {
+            "value": "#e1d4b7",
+            "type": "color"
+          },
+          "color-BL-brown-40": {
+            "value": "#d6c59e",
+            "type": "color"
+          },
+          "color-BL-brown-50": {
+            "value": "#cbb685",
+            "type": "color"
+          },
+          "color-BL-brown-60": {
+            "value": "#c2a96d",
+            "type": "color"
+          },
+          "color-BL-brown-70": {
+            "value": "#b89b55",
+            "type": "color"
+          },
+          "color-BL-brown-80": {
+            "value": "#ad8c3d",
+            "type": "color"
+          },
+          "color-BL-brown-90": {
+            "value": "#a47e25",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "Archie Brothers": {
+      "Primary": {
+        "color-AB-plum": {
+          "value": "#3a1132",
+          "type": "color"
+        },
+        "color-AB-orange": {
+          "value": "#f6842d",
+          "type": "color"
+        },
+        "color-AB-aqua": {
+          "value": "#007771",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "color-AB-red": {
+          "value": "#cd3232",
+          "type": "color"
+        }
+      },
+      "Palette": {
+        "Plum": {
+          "color-AB-plum-90": {
+            "value": "#4e2947",
+            "type": "color"
+          },
+          "color-AB-plum-80": {
+            "value": "#61415b",
+            "type": "color"
+          },
+          "color-AB-plum-70": {
+            "value": "#765970",
+            "type": "color"
+          },
+          "color-AB-plum-60": {
+            "value": "#897084",
+            "type": "color"
+          },
+          "color-AB-plum-50": {
+            "value": "#9c8798",
+            "type": "color"
+          },
+          "color-AB-plum-40": {
+            "value": "#b0a0ad",
+            "type": "color"
+          },
+          "color-AB-plum-30": {
+            "value": "#c4b8c2",
+            "type": "color"
+          },
+          "color-AB-plum-20": {
+            "value": "#d8cfd6",
+            "type": "color"
+          },
+          "color-AB-plum-10": {
+            "value": "#ece8eb",
+            "type": "color"
+          },
+          "color-AB-plum-5": {
+            "value": "#f5f3f4",
+            "type": "color"
+          }
+        },
+        "Orange": {
+          "color-AB-orange-90": {
+            "value": "#f79142",
+            "type": "color"
+          },
+          "color-AB-orange-80": {
+            "value": "#f89d57",
+            "type": "color"
+          },
+          "color-AB-orange-70": {
+            "value": "#f9a96c",
+            "type": "color"
+          },
+          "color-AB-orange-60": {
+            "value": "#fab581",
+            "type": "color"
+          },
+          "color-AB-orange-50": {
+            "value": "#fac195",
+            "type": "color"
+          },
+          "color-AB-orange-40": {
+            "value": "#fbceab",
+            "type": "color"
+          },
+          "color-AB-orange-30": {
+            "value": "#fddbc0",
+            "type": "color"
+          },
+          "color-AB-orange-20": {
+            "value": "#fde6d5",
+            "type": "color"
+          },
+          "color-AB-orange-10": {
+            "value": "#fff3ea",
+            "type": "color"
+          },
+          "color-AB-orange-5": {
+            "value": "#fef9f4",
+            "type": "color"
+          }
+        },
+        "Aqua": {
+          "color-AB-aqua-90": {
+            "value": "#1a8580",
+            "type": "color"
+          },
+          "color-AB-aqua-80": {
+            "value": "#33928d",
+            "type": "color"
+          },
+          "color-AB-aqua-70": {
+            "value": "#4da09c",
+            "type": "color"
+          },
+          "color-AB-aqua-60": {
+            "value": "#66adaa",
+            "type": "color"
+          },
+          "color-AB-aqua-50": {
+            "value": "#7fbab7",
+            "type": "color"
+          },
+          "color-AB-aqua-40": {
+            "value": "#99c9c6",
+            "type": "color"
+          },
+          "color-AB-aqua-30": {
+            "value": "#b3d7d5",
+            "type": "color"
+          },
+          "color-AB-aqua-20": {
+            "value": "#cce4e3",
+            "type": "color"
+          },
+          "color-AB-aqua-10": {
+            "value": "#e6f2f1",
+            "type": "color"
+          },
+          "color-AB-aqua-5": {
+            "value": "#f2f8f8",
+            "type": "color"
+          }
+        },
+        "Red": {
+          "color-AB-red-90": {
+            "value": "#d24747",
+            "type": "color"
+          },
+          "color-AB-red-80": {
+            "value": "#d75b5b",
+            "type": "color"
+          },
+          "color-AB-red-70": {
+            "value": "#dc7070",
+            "type": "color"
+          },
+          "color-AB-red-60": {
+            "value": "#e18484",
+            "type": "color"
+          },
+          "color-AB-red-50": {
+            "value": "#e59898",
+            "type": "color"
+          },
+          "color-AB-red-40": {
+            "value": "#ebadad",
+            "type": "color"
+          },
+          "color-AB-red-30": {
+            "value": "#f0c2c2",
+            "type": "color"
+          },
+          "color-AB-red-20": {
+            "value": "#f5d6d6",
+            "type": "color"
+          },
+          "color-AB-red-10": {
+            "value": "#faebeb",
+            "type": "color"
+          },
+          "color-AB-red-5": {
+            "value": "#fcf4f4",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "La Di Darts": {
+      "Primary": {
+        "color-LD-pink": {
+          "value": "#bf439c",
+          "type": "color"
+        },
+        "color-LD-blue": {
+          "value": "#005e6e",
+          "type": "color"
+        },
+        "color-LD-purple": {
+          "value": "#1a0f2e",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "color-LD-red": {
+          "value": "#ff4c34",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Colors"
+    ]
+  }
+}
