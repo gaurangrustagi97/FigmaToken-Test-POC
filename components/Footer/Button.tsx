@@ -1,4 +1,6 @@
 import { Button } from "@chakra-ui/react";
+import colors from "../../colors.json";
+import { colorsBrand } from "../../utils";
 
 export default function CustomButton() {
   return (
@@ -9,7 +11,7 @@ export default function CustomButton() {
       flexGrow={1}
       borderRadius={{ base: 0, lg: "md" }}
       mx="auto"
-      bgColor="app.action-1"
+      bgColor={colorsBrand["action1"]}
       height={"54px"}
     >
       Example

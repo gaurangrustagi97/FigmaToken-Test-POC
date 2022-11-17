@@ -1,0 +1,19 @@
+{
+  "strike": {
+    "colors": {
+      "background1": "red",
+      "action1": "yellow"
+    }
+  },
+  "holeymoley": {
+    "colors": {
+      "background1": "blue",
+      "action2": "green"
+    }
+  },
+  "core": {
+    "colors": {
+      "black": "black"
+    }
+  }
+}
