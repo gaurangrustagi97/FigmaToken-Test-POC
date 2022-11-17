@@ -7,6 +7,7 @@ import {
   Text,
   Button,
 } from "@chakra-ui/react";
+import { colorsBrand } from "../../utils";
 
 export default function Card() {
   return (
@@ -45,7 +46,7 @@ export default function Card() {
               fames ac ante ipsum primis in faucibus. Nam nisi augue, imperdiet
               at velit id, ullamcorper mattis risus
             </Text>
-            <Button width="136px" bgColor={"#FFFF00"}>
+            <Button width="136px" bgColor={colorsBrand["action1"]}>
               Button
             </Button>
           </Stack>

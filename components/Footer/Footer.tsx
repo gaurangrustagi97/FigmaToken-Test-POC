@@ -1,4 +1,5 @@
 import { Flex } from "@chakra-ui/react";
+import { colorsBrand } from "../../utils";
 import CustomButton from "./Button";
 
 export default function Footer() {
@@ -9,7 +10,7 @@ export default function Footer() {
         lg: "row",
       }}
       zIndex={15}
-      background="red"
+      bgColor={colorsBrand["action1"]}
       filter={`drop-shadow(0px -1px 4px rgba(13, 14, 15, 0.06)) drop-shadow(0px -6px 16px rgba(13, 14, 15, 0.08))`}
     >
       <Flex
