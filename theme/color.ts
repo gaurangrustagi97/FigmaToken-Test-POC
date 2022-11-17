@@ -1,11 +1,11 @@
 export const colors = {
   strike: {
-    "background-1": "red",
-    "action-1": "yellow",
+    background1: "red",
+    action1: "yellow",
   },
   holeyMoley: {
-    "background-1": "blue",
-    "action-2": "green",
+    background1: "blue",
+    action2: "green",
   },
   core: {
     black: "black",
