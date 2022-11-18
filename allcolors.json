@@ -16,9 +16,15 @@
         "type": "color"
       },
       "background1": {
-        "value": "#ffff00",
+        "value": "#ff00ff",
         "type": "color"
       }
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Colors"
+    ]
   }
 }
