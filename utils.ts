@@ -1,7 +1,7 @@
 import { holeyMoleyTheme, strikeTheme } from "./theme";
-import colors from "./colors.json";
+import { Colors } from "./colors.json";
 
-export type BrandType = keyof typeof colors;
+export type BrandType = keyof typeof Colors;
 export interface IColors {
   background1?: string;
   action1?: string;
@@ -19,6 +19,7 @@ export const ThemeMapping: ThemeMappingType = {
 
 const getColors = () => {
   const appTheme: BrandType = process.env.NEXT_PUBLIC_THEME as BrandType;
-  return colors[appTheme]["colors"] as IColors;
+  console.log(typeof Colors[appTheme]);
+  return Colors[appTheme] as IColors;
 };
 export const colorsBrand = getColors();
