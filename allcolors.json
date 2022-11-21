@@ -2,11 +2,11 @@
   "Colors": {
     "Strike": {
       "action1": {
-        "value": "#000000",
+        "value": "#e31125",
         "type": "color"
       },
       "background1": {
-        "value": "#ffffff",
+        "value": "#222222",
         "type": "color"
       }
     },
