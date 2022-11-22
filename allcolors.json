@@ -16,6 +16,28 @@
         "type": "color"
       },
       "background1": {
+        "value": "#ff0000",
+        "type": "color"
+      }
+    }
+  },
+  "strike": {
+    "Strike": {
+      "action1": {
+        "value": "#e31125",
+        "type": "color"
+      },
+      "background1": {
+        "value": "#ff00ff",
+        "type": "color"
+      }
+    },
+    "Holeymoley": {
+      "action1": {
+        "value": "#0000ff",
+        "type": "color"
+      },
+      "background1": {
         "value": "#ffff00",
         "type": "color"
       }
@@ -24,7 +46,8 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "Colors"
+      "Colors",
+      "strike"
     ]
   }
 }
